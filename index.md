@@ -18,13 +18,13 @@ Knowledge graph embeddings are supervised learning models that learn vector repr
 
 The goal of the tutorial is to provide answers to the following questions:
 
-- *(What is it?)* What are knowledge graph embedding models(KGE), Which machine learning paradigm do they belong to? How do they stand against prior art?
-- *(Why is it relevant?)* Why are knowledge graph embeddings important? What are the motivations to adopt such paradigm in - applicative projects or research activities?
-- *(Where is it critical?)* What are the real-world applications that benefit from learning and leveraging KGE at scale?
-- *(How does it work?)* What are the most popular KGE architectures? How are they trained? How are they evaluated?
-- *(How to use KGE models in practice?)* What are the existing software libraries? How to train and use embeddings? What are the best practices?
-- *(What did we learn?)* What are the lessons learned and limitations in designing, implementing, evaluating, and adopting KGE architectures?
-- *(What next?)* What are some of the promising future directions inKGE research?
+- ***(What is it?)*** What are knowledge graph embedding models(KGE), Which machine learning paradigm do they belong to? How do they stand against prior art?
+- ***(Why is it relevant?)*** Why are knowledge graph embeddings important? What are the motivations to adopt such paradigm in - applicative projects or research activities?
+- ***(Where is it critical?)*** What are the real-world applications that benefit from learning and leveraging KGE at scale?
+- ***(How does it work?)*** What are the most popular KGE architectures? How are they trained? How are they evaluated?
+- ***(How to use KGE models in practice?)*** What are the existing software libraries? How to train and use embeddings? What are the best practices?
+- ***(What did we learn?)*** What are the lessons learned and limitations in designing, implementing, evaluating, and adopting KGE architectures?
+- ***(What next?)*** What are some of the promising future directions inKGE research?
 
 
 ## Target Audience
