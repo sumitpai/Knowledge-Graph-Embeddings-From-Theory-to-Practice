@@ -27,6 +27,27 @@ The goal of the tutorial is to provide answers to the following questions:
 - *(What next?)* What are some of the promising future directions inKGE research?
 
 
+## Target Audience
+
+The target audience is the general ECAI audience who is interested in knowledge representation and reasoning, machine learning, and natural language processing.
+
+That includes artificial intelligence scientists, engineers, and students familiar with neural networks fundamentals and eager to know insights of graph representation learning for knowledge graphs. Researchers from graph-based knowledge representation (e.g. SemanticWeb, Linked Data) and NLP also qualify as target audience.
+
+The tutorial is of interest for either academic research and industry practitioners.
+
+
+## Other Details
+
+Proposed Format: Standard (Half-day)
+
+Estimated Audience: 50-70 participants
+
+Presentation Style: Slide deck presentation and Jupyter notebook/Colab tutorials for thehands-on session.
+
+Requirements: Projector, Wireless Internet connection. Attendees interested in actively following the hands-on session should be equipped with a laptop.
+
+
+
 ## Presenters
 
   a|b
