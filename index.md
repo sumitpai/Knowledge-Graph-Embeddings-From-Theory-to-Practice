@@ -38,13 +38,13 @@ The tutorial is of interest for either academic research and industry practition
 
 ## Other Details
 
-Proposed Format: Standard (Half-day)
+**Proposed Format:** Standard (Half-day)
 
-Estimated Audience: 50-70 participants
+**Estimated Audience:** 50-70 participants
 
-Presentation Style: Slide deck presentation and Jupyter notebook/Colab tutorials for thehands-on session.
+**Presentation Style:** Slide deck presentation and Jupyter notebook/Colab tutorials for thehands-on session.
 
-Requirements: Projector, Wireless Internet connection. Attendees interested in actively following the hands-on session should be equipped with a laptop.
+**Requirements:** Projector, Wireless Internet connection. Attendees interested in actively following the hands-on session should be equipped with a laptop.
 
 
 
